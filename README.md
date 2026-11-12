@@ -71,28 +71,38 @@ El código fuente podrá consultarse mediante un enlace al repositorio original 
 
 ---
 
-### 📦 NovaStock
-**Sistema de gestión de inventarios**
 
-Aplicación de escritorio desarrollada con C#, WPF, .NET y SQL Server.
+### 📦 NovaStock — Sistema de Gestión de Inventarios
 
-Proyecto orientado a gestionar y organizar información relacionada con inventarios, utilizando interfaces gráficas y bases de datos.
+**Proyecto académico | Universidad Tecnológica de Coahuila**
 
-**Tecnologías principales:**
+NovaStock es una aplicación de escritorio desarrollada con C#, WPF y SQL Server, orientada a la administración y organización de inventarios.
 
+El proyecto permite demostrar conocimientos de programación orientada a objetos, desarrollo de interfaces gráficas, bases de datos y arquitectura de aplicaciones.
+
+**Tecnologías utilizadas:**
 - C# y .NET
 - WPF y XAML
 - SQL Server
 - Programación orientada a objetos
-- Arquitectura de aplicaciones
+- Visual Studio
+- Git y GitHub
 
-**Estado:** Proyecto académico con funcionalidades desarrolladas y áreas de mejora.
+**Competencias demostradas:**
+- Desarrollo de aplicaciones de escritorio.
+- Diseño de interfaces gráficas.
+- Gestión de información.
+- Integración con bases de datos.
+- Depuración y mantenimiento de software.
 
-#### 🔍 Demostración
+**Estado:** Proyecto académico con funcionalidades implementadas y áreas de mejora.
 
-Se incorporarán capturas del sistema y una versión ejecutable de demostración, utilizando datos ficticios y sin exponer configuraciones privadas.
+#### 🔍 Código fuente y demostración
 
----
+🔗 [Consultar repositorio de NovaStock](https://github.com/Israelv51/NovaStock)
+
+Las demostraciones y capturas del sistema se incorporarán progresivamente.
+
 
 ## 🤝 Trabajo en equipo y liderazgo
 
